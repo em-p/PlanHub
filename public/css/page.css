@@ -29,6 +29,7 @@ nav {
 	list-style-type: none;
 	border-right: solid 1px black;
 	z-index: 998;
+	background-color:#3397d9;
 }
 .tabs li {
 	-webkit-transform: rotate(-90deg);
@@ -93,7 +94,7 @@ nav {
 	padding-left: 10px;
 }
 .upsell-row {
-	background: lightgray;
+	background: orange;
 	width: 750px;
 }
 .upsell-btn {
