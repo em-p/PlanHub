@@ -32,9 +32,15 @@ function getHwPerDay(){
    			hwPerDay.push(res);
    		});
 	alert(hwPerDay);
+	return(hwPerDay);
 	}
  
 };
+function displayGraph(){
+	//include graph here
+	var hw = gethwPerDay();
+	
+}
 function hello(){
 	alert("Hi!");
 };
