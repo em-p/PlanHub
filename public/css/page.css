@@ -18,7 +18,7 @@ nav {
 	padding-top: 45px;
 }
 .tabs {
-	background-color: #333333;
+	background-color: #207065;
 	color: white;
 	position: fixed;
 	top: 0;
@@ -49,7 +49,7 @@ nav {
 	transition: background 0.2s;
 }
 .tabs li:hover {
-	background-color: #272727;
+	background-color: #00463C;
 }
 .tabs li .fa {
 	margin-right: 1px;
